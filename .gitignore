@@ -29,3 +29,5 @@ node_modules
 index.js
 
 scrap.coffee
+
+package-lock.json
